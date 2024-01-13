@@ -54,6 +54,6 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 3. Aplica las migraciones: `python manage.py migrate`
 4. Inicia el servidor de desarrollo: `python manage.py runserver`
 
-Ahora podrás acceder a la aplicación de agenda en ` http://localhost:8000/` y a la herramienta de tareas en `http://localhost:8000/tareas/`.
+Ahora podrás acceder a la aplicación  en ` http://localhost:8000/`.
 
-¡Disfruta de tu aplicación Django de Agenda y Herramienta de Tareas!
+
